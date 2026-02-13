@@ -18,9 +18,10 @@ Aplicativo de gerenciamento de tarefas desenvolvido com **React Native** e **Exp
 - **React** 19.1.0
 - **AsyncStorage** para persistência local
 
-## 📚 Documentação Completa
+## 📚 Documentação
 
-Para um guia passo a passo completo de como recriar este aplicativo do zero, consulte o **[Guia de Criação](GUIA_DE_CRIACAO.md)**.
+- **[Guia de Criação](GUIA_DE_CRIACAO.md)** - Passo a passo completo para recriar o app do zero
+- **[Documentação Técnica](DOCUMENTACAO_TECNICA.md)** - Explicação detalhada dos conceitos e arquitetura
 
 ## 📄 Licença
 
