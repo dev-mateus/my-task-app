@@ -106,6 +106,8 @@ my-task-app/
 
 ## 📝 Passo 5: Criar os Arquivos TypeScript
 
+> 💡 **Dica:** Para entender os conceitos técnicos por trás de cada arquivo, consulte a **[Documentação Técnica](DOCUMENTACAO_TECNICA.md)** completa.
+
 ### 5.1 - Criar o tipo Task
 
 Crie o arquivo `src/types/Task.ts`:
@@ -723,6 +725,12 @@ npx expo start -c
 ---
 
 ## 📚 Recursos Adicionais
+
+### Documentação do Projeto
+
+- **[Documentação Técnica](DOCUMENTACAO_TECNICA.md)**: Explicação detalhada da arquitetura e conceitos avançados
+
+### Recursos Externos
 
 - **Documentação Expo**: <https://docs.expo.dev/>
 - **React Native Docs**: <https://reactnative.dev/docs/getting-started>
